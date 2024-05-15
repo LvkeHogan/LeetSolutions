@@ -24,5 +24,4 @@ class Solution:
             
             return reversedList
 
-        return reverse(head)
-            
+        return reverse(head,None)
